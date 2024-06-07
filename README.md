@@ -1,2 +1,6 @@
-# Data-Analysis-All-Projects
-"Through a blend of Excel, Python, Power BI, and SQL, my data analysis projects have become dynamic narratives of insight and discovery. Leveraging Excel's versatility, I've crafted detailed spreadsheets for data wrangling and visualization, ensuring clarity in every dataset. Python, with its robust libraries like Pandas and Matplotlib, has empowered me to dive deep into complex data structures, performing advanced analytics and machine learning algorithms with precision. Power BI's interactive dashboards have transformed raw data into compelling stories, enabling stakeholders to grasp trends at a glance. Lastly, SQL's querying prowess has allowed me to unlock the potential of databases, extracting valuable insights and driving informed decision-making. Together, these tools have fueled my passion for uncovering hidden patterns and driving actionable insights in every project."
+I am an expert over 2 years of experience in collecting, cleaning, and analyzing large datasets to extract meaningful insights and contributed to developing reports and dashboards to visualize key performance indicators. 
+I have conducted exploratory data analysis using Python, SQL, Power BI, and Excel to identify trends and patterns for business optimization. 
+I can work in various fields including business, research, healthcare, weather, criminal justice, science, government data etc.
+Please check my portfolio: 
+https://github.com/SHAKIL-The-Analyst/All-Projects.git
+
